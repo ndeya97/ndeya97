@@ -20,6 +20,8 @@ Currently learning and building with:
 
 ---
 
+>✨ “I’m documenting each step of my transition — from fundamentals to professional labs.”
+
 ### 🧭 Roadmap (2025 → 2027)
 
 | Phase | Focus | Tools / Goals |
@@ -35,8 +37,13 @@ Currently learning and building with:
 *(click below to explore the repositories)*  
 
 🔗 [**secure-identity-api**](https://github.com/ndeya97/secure-identity-api)  
+A simple Spring Boot & JWT project simulating secure authentication and role-based access control — foundation of IAM logic.
+
 🔗 [**iam-integration-lab**](https://github.com/ndeya97/iam-integration-lab)  
+A demo environment for SailPoint IdentityIQ integration, exploring provisioning flows and identity lifecycle management.
+
 🔗 [**cloud-security-automation**](https://github.com/ndeya97/cloud-security-automation)  
+Hands-on experiments with Terraform, Azure, and security automation, focusing on least privilege and secure configurations.
 
 > 📌 *Pinned below on my GitHub profile for quick access.*
 
@@ -51,8 +58,9 @@ Currently learning and building with:
 ---
 
 ### 🎯 TryHackMe Progress  
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ndeya97.png)](https://tryhackme.com/p/ndeya97)
-
+> 🧠 Currently exploring **Pre-Security** and **Introduction to Cybersecurity** rooms on [TryHackMe](https://tryhackme.com/p/ndeya97).
+>  <!-- [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ndeya97.png)](https://tryhackme.com/p/ndeya97)-->  
+> Progress badge coming soon 🔒
 ---
 
 ### 🛠️ Tech Stack  
@@ -68,6 +76,8 @@ Currently learning and building with:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NdeyeAwaDiop-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ndeyeawadiop)  
 [![GitHub](https://img.shields.io/badge/GitHub-ndeya97-black?logo=github&style=flat-square)](https://github.com/ndeya97)  
+[![Notion](https://img.shields.io/badge/Notion-Public%20Page-black?logo=notion&style=flat-square)](https://ndeya.notion.site/...)
+
 📧 **nadiop97@gmail.com**
 
 ---
