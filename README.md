@@ -76,7 +76,7 @@ Hands-on experiments with Terraform, Azure, and security automation, focusing on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NdeyeAwaDiop-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ndeyeawadiop)  
 [![GitHub](https://img.shields.io/badge/GitHub-ndeya97-black?logo=github&style=flat-square)](https://github.com/ndeya97)  
-[![Notion](https://img.shields.io/badge/Notion-Public%20Page-black?logo=notion&style=flat-square)](https://ndeya.notion.site/...)
+[![Notion](https://img.shields.io/badge/Notion-IAM%20%26%20Cloud%20Security%20Journey-black?logo=notion&style=flat-square)](https://ndeya.notion.site/IAM-Cloud-Security-Journey-Public-Edition-287c513f71e78043aa4cd015ad4652d9)
 
 📧 **nadiop97@gmail.com**
 
