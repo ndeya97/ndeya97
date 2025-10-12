@@ -29,7 +29,7 @@ Currently learning and building with:
 | 🧩 **1. Foundations** | Google Cybersecurity Certificate, CompTIA Security+, TryHackMe Basics |
 | 🔐 **2. IAM Specialization** | SailPoint IIQ, Keycloak, Azure AD, OAuth2 / SAML |
 | ☁️ **3. Cloud & DevSecOps** | Terraform, Azure IAM, AWS Security, CI/CD Pipelines |
-| 💼 **4. Professional Visibility** | GitHub portfolio, LinkedIn bilingual posts, Notion showcase |
+| 💼 **4. Professional Visibility & Mentorship** | GitHub portfolio, LinkedIn bilingual posts, Notion showcase |
 
 ---
 
