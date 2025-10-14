@@ -20,7 +20,7 @@ Currently learning and building with:
 
 ---
 
->✨ “I’m documenting each step of my transition — from fundamentals to professional labs.”
+> ✨ “I’m documenting each step of my transition — from fundamentals to professional labs.”
 
 ### 🧭 Roadmap (2025 → 2027)
 
@@ -33,11 +33,16 @@ Currently learning and building with:
 
 ---
 
-### ⚙️ Featured Projects  
-*(click below to explore the repositories)*  
+### ⚙️ Featured Labs & Projects  
+> From fundamentals to IAM and Cloud automation — each repository reflects a step in my cybersecurity journey.
+
+*(Click below to explore the repositories.)*  
+
+🔗 [**security-fundamentals-lab**](https://github.com/ndeya97/security-fundamentals-lab)  
+A structured learning lab documenting cybersecurity fundamentals — from Google Cybersecurity Certificate modules to TryHackMe rooms and GitHub practice issues.
 
 🔗 [**secure-identity-api**](https://github.com/ndeya97/secure-identity-api)  
-A simple Spring Boot & JWT project simulating secure authentication and role-based access control — foundation of IAM logic.
+A Spring Boot & JWT project simulating secure authentication and role-based access control — the foundation of IAM logic.
 
 🔗 [**iam-integration-lab**](https://github.com/ndeya97/iam-integration-lab)  
 A demo environment for SailPoint IdentityIQ integration, exploring provisioning flows and identity lifecycle management.
@@ -58,9 +63,11 @@ Hands-on experiments with Terraform, Azure, and security automation, focusing on
 ---
 
 ### 🎯 TryHackMe Progress  
-> 🧠 Currently exploring **Pre-Security** and **Introduction to Cybersecurity** rooms on [TryHackMe](https://tryhackme.com/p/ndeya97).
->  <!-- [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ndeya97.png)](https://tryhackme.com/p/ndeya97)-->  
-> Progress badge coming soon 🔒
+> 🧠 Currently exploring **Pre-Security** and **Introduction to Cybersecurity** rooms on [TryHackMe](https://tryhackme.com/p/ndeya97).  
+> Progress badge coming soon 🔒  
+
+<!-- [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ndeya97.png)](https://tryhackme.com/p/ndeya97) -->
+
 ---
 
 ### 🛠️ Tech Stack  
