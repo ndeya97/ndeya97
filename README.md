@@ -4,27 +4,28 @@ Calgary, Alberta, Canada
 
 ---
 
-## 🔐 Focus
+## 🔐 IAM Governance & Lifecycle Focus
 
-I specialize in Identity & Access Management (IAM), with hands-on experience in:
+IAM professional focused on structured identity lifecycle management and access governance within enterprise environments.
 
-- Microsoft Entra ID  
-- SailPoint IdentityIQ  
-- Role-Based Access Control (RBAC)  
-- Identity lifecycle management (Joiner / Mover / Leaver)  
-- Authentication (SSO, group claims)  
-- Multi-Factor Authentication (MFA)  
-- Access governance principles  
-
-My repositories document structured IAM labs aligned with operational and enterprise best practices.
+My work emphasizes clarity in access models, least-privilege enforcement, and traceable identity processes aligned with security best practices.
 
 ---
 
 ## 🧪 Current Project
 
-🔗 **entra-id-iam-lab**  
-Operational IAM lab using Microsoft Entra ID  
-Identity structuring, RBAC implementation, authentication testing, and lifecycle simulation.
+🔗 **Entra ID IAM Governance Lab** 
+
+Hands-on operational IAM lab built on Microsoft Entra ID, demonstrating:
+
+- Role-Based Access Control (RBAC)
+- Business Role → Technical Group separation
+- Identity lifecycle management (Joiner / Mover / Leaver)
+- Access validation & privilege control
+- Governance-oriented access structuring
+- Identity-related risk awareness
+
+This lab simulates real-world IAM scenarios and focuses on structured access modeling rather than isolated configuration tasks.
 
 ---
 
@@ -33,10 +34,16 @@ Identity structuring, RBAC implementation, authentication testing, and lifecycle
 - Identity & Access Management (IAM)  
 - Microsoft Entra ID  
 - SailPoint IdentityIQ  
-- RBAC  
+- RBAC & Group-Based Access
 - Identity Lifecycle Management  
-- MFA  
-- Security Administration  
+- MFA & Authentication
+- Enterprise IAM Support Scenarios 
+
+---
+
+## 🎯 Professional Objective
+
+To contribute as an IAM Governance & Lifecycle Analyst in a structured enterprise environment, supporting identity lifecycle integrity and access governance operations.
 
 ---
 
