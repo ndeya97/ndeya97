@@ -1,49 +1,54 @@
 # 👋🏽 Ndeye Awa Diop  
-**Identity & Access Management (IAM)**  
+**IAM Engineer — Identity & Access Management (IAM)**  
 Calgary, Alberta, Canada  
 
 ---
 
-## 🔐 IAM Governance & Lifecycle Focus
+## 🔐 Cloud Identity & Governance Focus
 
-IAM professional focused on structured identity lifecycle management and access governance within enterprise environments.
+IAM Engineer focused on Identity Governance (IGA), lifecycle automation, and enterprise access control.
 
-My work emphasizes clarity in access models, least-privilege enforcement, and traceable identity processes aligned with security best practices.
+Currently building hands-on labs around **Microsoft Entra ID** and **SailPoint Identity Security Cloud (ISC)** to simulate real-world enterprise IAM scenarios.
 
 ---
 
 ## 🧪 Current Project
 
-🔗 **Entra ID IAM Governance Lab** 
+🔗 **IAM Cloud & Governance Lab — Entra ID & SailPoint ISC**
 
-Hands-on operational IAM lab built on Microsoft Entra ID, demonstrating:
+Hands-on IAM lab exploring enterprise identity governance across cloud identity platforms.
 
+Key focus areas:
+
+- Microsoft Entra ID administration
 - Role-Based Access Control (RBAC)
-- Business Role → Technical Group separation
-- Identity lifecycle management (Joiner / Mover / Leaver)
-- Access validation & privilege control
-- Governance-oriented access structuring
-- Identity-related risk awareness
+- Joiner–Mover–Leaver (JML) lifecycle modeling
+- Conditional Access & access governance
+- Privileged Identity Management (PIM)
+- SailPoint Identity Security Cloud (ISC) architecture exploration
 
-This lab simulates real-world IAM scenarios and focuses on structured access modeling rather than isolated configuration tasks.
+This lab simulates structured IAM environments and focuses on **identity governance, lifecycle integrity, and least-privilege access models**.
 
 ---
 
 ## 🛠 Core Competencies
 
 - Identity & Access Management (IAM)  
+- Identity Governance & Administration (IGA)  
 - Microsoft Entra ID  
 - SailPoint IdentityIQ  
-- RBAC & Group-Based Access
-- Identity Lifecycle Management  
-- MFA & Authentication
-- Enterprise IAM Support Scenarios 
+- RBAC & Access Governance  
+- Identity Lifecycle Management (JML)  
+- Conditional Access & MFA  
+- Enterprise IAM Support Scenarios  
 
 ---
 
 ## 🎯 Professional Objective
 
-To contribute as an IAM Governance & Lifecycle Analyst in a structured enterprise environment, supporting identity lifecycle integrity and access governance operations.
+IAM Engineer specializing in **identity governance, lifecycle automation, and enterprise access control**.
+
+Currently strengthening expertise in **Microsoft Entra ID (SC-300 preparation)** and **SailPoint Identity Security Cloud (ISC)** to support modern cloud IAM environments.
 
 ---
 
