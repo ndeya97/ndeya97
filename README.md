@@ -63,8 +63,6 @@ at **BNP Paribas** (via Synetis), one of Europe's largest regulated banking envi
 |Identity Security Cloud (ISC) Engineer | Sailpoint | ⬜ Planned |
 | SC-300 — Identity & Access Administrator | Microsoft | ⬜ Planned |
 
-📁 [`/certifications/progress.md`](./certifications/progress.md)
-
 ---
 
 ## 🛠 Technical skills
