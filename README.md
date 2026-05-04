@@ -7,8 +7,7 @@ Calgary, Alberta, Canada · Permanent Resident · No sponsorship required
 
 ## 🔐 About me
 
-IAM Engineer with 4+ years of experience in software development and identity governance,
-including a hands-on SailPoint IdentityIQ implementation at **BNP Paribas** — one of Europe's
+IAM Engineer with a strong background in software development and hands-on experience with SailPoint IdentityIQ at **BNP Paribas** — one of Europe's
 largest regulated banking environments.
 
 Currently based in Calgary, transitioning to Cloud IAM with a focus on
@@ -31,44 +30,28 @@ Identity governance implementation in a complex, multi-system banking environmen
 
 ---
 
-## 🧪 Projects
+## 🧪 Project
 
-### 1. IIQ Identity Lifecycle Lab
+### IIQ Identity Lifecycle Demo
 
-Banking-style identity governance lab with separate **DEV and TEST environments** (VirtualBox),
-simulating real enterprise project conditions based on BNP Paribas experience.
+Documented IAM lifecycle flow based on hands-on experience with SailPoint IdentityIQ
+at **BNP Paribas** (via Synetis), one of Europe's largest regulated banking environments.
 
-| Scenario | Status |
+| Component | Details |
 |---|---|
-| CSV onboarding (9 attributes) | ⬜ Planned |
-| Joiner — create & provision | ⬜ Planned |
-| Leaver — revoke & deactivate | ⬜ Planned |
-| Mover — department change | ⬜ Planned |
-| Leave of Absence — suspend access | ⬜ Planned |
-| ComeBack — restore access | ⬜ Planned |
-| BeanShell aggregation rule | ⬜ Planned |
-| Access certification campaign | ⬜ Planned |
-| UAT bug scenario + fix log | ⬜ Planned |
+| Data source | HR CSV onboarding (identity attributes) |
+| Joiner workflow | Identity creation, role assignment, provisioning |
+| Mover workflow | Department change, access update |
+| Leaver workflow | Access revocation, account deactivation |
+| Access certification | Manager review campaigns (least-privilege enforcement) |
+| Rules | BeanShell aggregation rules for identity data processing |
 
-> This lab reflects real-world IAM practices: DEV/TEST environments, lifecycle automation,
-> and UAT validation in a banking context.
+> This project is a simplified representation of real-world IAM processes implemented in a banking environment:
+> lifecycle automation, certification campaigns, and UAT validation in a banking context.
+> Currently upskilling on **SailPoint Identity Security Cloud (ISC)**.
 
-📁 [`/iiq-lab`](./iiq-lab)
+📁 [`sailpoint-iiq-lifecycle-demo`](https://github.com/ndeya97/sailpoint-iiq-lifecycle-demo)
 
----
-
-### 2. CIAM Authentication Lab — Okta (Planned · Week 4)
-
-Authentication flow simulation using Okta as Identity Provider.
-
-| Task | Status |
-|---|---|
-| OIDC application configuration | ⬜ Planned |
-| MFA implementation (Okta Verify) | ⬜ Planned |
-| End-to-end authentication flow test | ⬜ Planned |
-| OAuth2 vs OIDC documentation | ⬜ Planned |
-
-📁 [`/ciam-okta`](./ciam-okta)
 
 ---
 
@@ -76,8 +59,9 @@ Authentication flow simulation using Okta as Identity Provider.
 
 | Certification | Provider | Status |
 |---|---|---|
-| Identity Security Cloud (ISC) Foundations | SailPoint | 🔄 In progress |
-| SC-300 — Identity & Access Administrator | Microsoft | 🔄 In progress |
+| Identity Security Cloud (ISC) Implementer | SailPoint | 🔄 In progress |
+|Identity Security Cloud (ISC) Engineer | Sailpoint | ⬜ Planned |
+| SC-300 — Identity & Access Administrator | Microsoft | ⬜ Planned |
 
 📁 [`/certifications/progress.md`](./certifications/progress.md)
 
@@ -86,13 +70,16 @@ Authentication flow simulation using Okta as Identity Provider.
 ## 🛠 Technical skills
 
 **IAM / IGA:** SailPoint IdentityIQ · Identity Lifecycle (JML) · Access Certification · BeanShell  
-**Cloud IAM:** Microsoft Entra ID · SailPoint ISC · Okta  
-**Auth protocols:** SSO · SAML · OAuth2 · OpenID Connect · MFA  
+**Cloud IAM:** SailPoint ISC (in progress) · Microsoft Entra ID (learning)
+**Auth protocols:** SSO concepts · SAML · OAuth2 · MFA (fundamentals)
 **Development:** Java · Spring Boot · REST APIs · SQL / PL-SQL  
 **Tools:** Git · Docker · Postman · Apache Tomcat · IntelliJ · VS Code
+
 
 ---
 
 ## 📫 Connect
 
 [LinkedIn](https://linkedin.com/in/ndeyeawadiop)
+
+📫 Open to IAM Engineer / IGA roles in Calgary (available January 2027)
