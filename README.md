@@ -59,10 +59,9 @@ at **BNP Paribas** (via Synetis), one of Europe's largest regulated banking envi
 
 | Certification / Credential | Provider | Status |
 |---|---|---|
-| Identity Security Leader| SailPoint | 🔄 In progress |
-|Identity Security Professional | SailPoint | 🟦 Planned |
-| SailPoint Certified Identity Security Administrator | SailPoint | ⬜ Planned |
-| SC-300 — Identity & Access Administrator | Microsoft | ⬜ Planned |
+| SC-300 — Identity & Access Administrator | Microsoft | 🔄 In progress |
+| SailPoint Certified Identity Security Engineer | SailPoint | ⬜ Planned |
+
 ---
 
 ## 🛠 Technical skills
