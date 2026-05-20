@@ -1,82 +1,107 @@
 # 👋🏽 Ndeye Awa Diop
-
-**IAM Engineer — Identity Governance & Cloud IAM**
+**IAM Engineer — Identity Governance & Cloud IAM**  
 Calgary, Alberta, Canada · Permanent Resident · No sponsorship required
 
 ---
 
 ## 🔐 About me
 
-IAM Engineer with a strong background in software development and hands-on experience with SailPoint IdentityIQ at **BNP Paribas** — one of Europe's
-largest regulated banking environments.
+IAM Engineer with a background in software development and hands-on experience 
+with SailPoint IdentityIQ at **BNP Paribas** — one of Europe's largest regulated 
+banking environments.
 
-Currently based in Calgary, transitioning to Cloud IAM with a focus on
-**SailPoint ISC** and **Microsoft Entra ID (SC-300 in progress)**.
+Directly implemented Leave of Absence and ComeBack workflows, BeanShell 
+aggregation rules, and Mover access certification campaigns in a complex, 
+multi-system banking context.
+
+Currently based in Calgary and actively transitioning to Cloud IAM — 
+preparing **Microsoft SC-300** and upskilling on **SailPoint Identity Security Cloud (ISC)**.
 
 ---
 
-## 🏦 Key experience
+## 🏦 Key Experience
 
-**IAM Engineer — Synetis (Client: BNP Paribas)** · Paris · 2023–2024
+**Junior Security Consultant — Synetis (Client: BNP Paribas)** · Paris · Oct 2023 – Feb 2024  
+*Reference letter available upon request*
 
-Identity governance implementation in a complex, multi-system banking environment:
-
-- Joiner / Mover / Leaver workflows including Leave of Absence and ComeBack scenarios
-- BeanShell rules and aggregation logic for identity data processing
+**Directly implemented:**
+- Leave of Absence (LOA) workflow — temporary access suspension via HR event trigger
+- ComeBack workflow — access restoration and re-provisioning after return from leave
+- Access certification campaigns — Mover scenarios (least-privilege enforcement)
+- BeanShell aggregation rules for identity data processing
 - CSV onboarding and identity model configuration
-- Access certification campaigns (mover scenarios, least-privilege enforcement)
-- UAT support — debugging identity workflows and resolving production issues
+- Notification templates (EmailTemplate) using Velocity
+- IdentityIQ UI customization (branding, HTML/CSS)
 - Technical documentation (admin guides, spec updates)
+
+**Participated in (testing & UAT):**
+- Joiner / Mover / Leaver workflows — debugging and production issue resolution
 
 ---
 
 ## 🧪 Project
 
-### IIQ Identity Lifecycle Demo
+### 🏦 sailpoint-iiq-lifecycle-demo
+> Based on hands-on work with SailPoint IdentityIQ at BNP Paribas (via Synetis)
 
-Documented IAM lifecycle flow based on hands-on experience with SailPoint IdentityIQ
-at **BNP Paribas** (via Synetis), one of Europe's largest regulated banking environments.
+**What it does:** Reproduces IAM lifecycle patterns from a regulated banking 
+environment — HR data ingestion, identity correlation, LOA/ComeBack handling, 
+and access certification.
 
-| Component | Details |
+| Layer | Implementation |
 |---|---|
-| Data source | HR CSV onboarding (identity attributes) |
-| Joiner workflow | Identity creation, role assignment, provisioning |
-| Mover workflow | Department change, access update |
-| Leaver workflow | Access revocation, account deactivation |
-| Access certification | Manager review campaigns (least-privilege enforcement) |
-| Rules | BeanShell aggregation rules for identity data processing |
+| **Data ingestion** | HR CSV → identity attribute mapping |
+| **Joiner** | Account creation + role assignment (UAT & testing) |
+| **Mover** | Department change → remove old access, assign new entitlements |
+| **LOA** | Temporary access suspension — accounts disabled, roles preserved |
+| **ComeBack** | Access restoration based on current role profile |
+| **Certification** | Mover scenarios — manager review, least-privilege enforcement |
 
-> This project is a simplified representation of real-world IAM processes implemented in a banking environment:
-> lifecycle automation, certification campaigns, and UAT validation in a banking context.
-> Currently upskilling on **SailPoint Identity Security Cloud (ISC)**.
+**Project files:**
 
-📁 [`sailpoint-iiq-lifecycle-demo`](https://github.com/ndeya97/sailpoint-iiq-lifecycle-demo)
+| File | Description |
+|---|---|
+| `/rules/correlation-rule.bsh` | BeanShell rule — identity matching by employeeId or email |
+| `/data/hr-sample.csv` | Sample HR file with JML event types |
+| `/workflows/loa-comeback-workflow-spec.md` | LOA & ComeBack technical specification |
 
+**Tech:** `SailPoint IIQ` `BeanShell` `Java` `CSV` `SQL` `Velocity`
+
+📁 [View project →](https://github.com/ndeya97/sailpoint-iiq-lifecycle-demo)
 
 ---
 
-## 🎯 Certifications & Learning Paths
+## 🚧 In Progress — Cloud IAM Project
 
-| Certification / Credential | Provider | Status |
+**sailpoint-isc-entra-identity-governance** *(coming soon)*  
+Hybrid Cloud IAM demo: SailPoint ISC Transforms + Microsoft Entra ID 
+provisioning via Terraform.  
+`Python` `Terraform` `JSON` `REST API` `Microsoft Graph`
+
+---
+
+## 🎯 Certifications & Learning
+
+| Certification | Provider | Status |
 |---|---|---|
 | SC-300 — Identity & Access Administrator | Microsoft | 🔄 In progress |
-| SailPoint Certified Identity Security Engineer | SailPoint | ⬜ Planned |
+| Identity Security Engineer | SailPoint | ⬜ Planned |
+
+*Preparing via Microsoft Learn (SC-300) and developer.sailpoint.com*
 
 ---
 
-## 🛠 Technical skills
+## 🛠 Technical Skills
 
-**IAM / IGA:** SailPoint IdentityIQ · Identity Lifecycle (JML) · Access Certification · BeanShell  
-**Cloud IAM:** SailPoint ISC (in progress) · Microsoft Entra ID (learning)
-**Auth protocols:** SSO concepts · SAML · OAuth2 · MFA (fundamentals)
+**IAM / IGA:** SailPoint IdentityIQ · Identity Lifecycle (JML) · Access Certification · BeanShell · Velocity  
+**Cloud IAM:** SailPoint ISC (in progress) · Microsoft Entra ID (learning)  
+**Auth protocols:** SAML · OAuth2 · SSO · MFA  
 **Development:** Java · Spring Boot · REST APIs · SQL / PL-SQL  
 **Tools:** Git · Docker · Postman · Apache Tomcat · IntelliJ · VS Code
-
 
 ---
 
 ## 📫 Connect
 
-[LinkedIn](https://linkedin.com/in/ndeyeawadiop)
-
-📫 Open to IAM Engineer / IGA roles in Calgary (available January 2027)
+[LinkedIn](https://linkedin.com/in/ndeyeawadiop)  
+Open to IAM Engineer / IGA roles in Calgary — **available now**
