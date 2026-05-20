@@ -95,7 +95,7 @@ provisioning via Terraform.
 
 **IAM / IGA:** SailPoint IdentityIQ · Identity Lifecycle (JML) · Access Certification · BeanShell · Velocity  
 **Cloud IAM:** SailPoint ISC (in progress) · Microsoft Entra ID (learning)  
-**Auth protocols:** SAML · OAuth2 · SSO · MFA  
+**Auth protocols:** SSO · SAML · OAuth2 · MFA (conceptual knowledge · deepening via SC-300)
 **Development:** Java · Spring Boot · REST APIs · SQL / PL-SQL  
 **Tools:** Git · Docker · Postman · Apache Tomcat · IntelliJ · VS Code
 
