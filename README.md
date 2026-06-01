@@ -1,107 +1,62 @@
-# 👋🏽 Ndeye Awa Diop
-**IAM Engineer — Identity Governance & Cloud IAM**  
+# 👋 Ndeye Awa Diop
+
+**IAM Engineer — Identity Governance & SailPoint IdentityIQ**
+
 Calgary, Alberta, Canada · Permanent Resident · No sponsorship required
 
 ---
 
-## 🔐 About me
+## 🙋 About me
 
-IAM Engineer with a background in software development and hands-on experience 
-with SailPoint IdentityIQ at **BNP Paribas** — one of Europe's largest regulated 
-banking environments.
+IAM Engineer with a software development background and hands-on SailPoint IdentityIQ experience at **BNP Paribas** — one of Europe's largest regulated banking environments.
 
-Directly implemented Leave of Absence and ComeBack workflows, BeanShell 
-aggregation rules, and Mover access certification campaigns in a complex, 
-multi-system banking context.
-
-Currently based in Calgary and actively transitioning to Cloud IAM — 
-preparing **Microsoft SC-300** and upskilling on **SailPoint Identity Security Cloud (ISC)**.
-
----
-
-## 🏦 Key Experience
-
-**Junior Security Consultant — Synetis (Client: BNP Paribas)** · Paris · Oct 2023 – Feb 2024  
-*Reference letter available upon request*
-
-**Directly implemented:**
-- Leave of Absence (LOA) workflow — temporary access suspension via HR event trigger
-- ComeBack workflow — access restoration and re-provisioning after return from leave
-- Access certification campaigns — Mover scenarios (least-privilege enforcement)
-- BeanShell aggregation rules for identity data processing
+At Synetis (Paris), I directly implemented:
+- Joiner / Mover / Leaver / Leave of Absence / ComeBack workflows
+- BeanShell correlation and aggregation rules
 - CSV onboarding and identity model configuration
-- Notification templates (EmailTemplate) using Velocity
-- IdentityIQ UI customization (branding, HTML/CSS)
-- Technical documentation (admin guides, spec updates)
+- Access certification campaigns (Mover scenarios, least-privilege enforcement)
+- EmailTemplate notifications using Velocity (VTL)
+- Technical documentation (admin guides, user guides, spec updates)
 
-**Participated in (testing & UAT):**
-- Joiner / Mover / Leaver workflows — debugging and production issue resolution
-
----
-
-## 🧪 Project
-
-### 🏦 sailpoint-iiq-lifecycle-demo
-> Based on hands-on work with SailPoint IdentityIQ at BNP Paribas (via Synetis)
-
-**What it does:** Reproduces IAM lifecycle patterns from a regulated banking 
-environment — HR data ingestion, identity correlation, LOA/ComeBack handling, 
-and access certification.
-
-| Layer | Implementation |
-|---|---|
-| **Data ingestion** | HR CSV → identity attribute mapping |
-| **Joiner** | Account creation + role assignment (UAT & testing) |
-| **Mover** | Department change → remove old access, assign new entitlements |
-| **LOA** | Temporary access suspension — accounts disabled, roles preserved |
-| **ComeBack** | Access restoration based on current role profile |
-| **Certification** | Mover scenarios — manager review, least-privilege enforcement |
-
-**Project files:**
-
-| File | Description |
-|---|---|
-| `/rules/correlation-rule.bsh` | BeanShell rule — identity matching by employeeId or email |
-| `/data/hr-sample.csv` | Sample HR file with JML event types |
-| `/workflows/loa-comeback-workflow-spec.md` | LOA & ComeBack technical specification |
-
-**Tech:** `SailPoint IIQ` `BeanShell` `Java` `CSV` `SQL` `Velocity`
-
-📁 [View project →](https://github.com/ndeya97/sailpoint-iiq-lifecycle-demo)
+Currently based in Calgary, pursuing **Microsoft SC-300** (Identity & Access Administrator) to expand into Microsoft Entra ID and cloud identity governance.
 
 ---
 
-## 🚧 In Progress — Cloud IAM Project
+## 📁 Projects
 
-**sailpoint-isc-entra-identity-governance** *(coming soon)*  
-Hybrid Cloud IAM demo: SailPoint ISC Transforms + Microsoft Entra ID 
-provisioning via Terraform.  
-`Python` `Terraform` `JSON` `REST API` `Microsoft Graph`
+### 🔐 [sailpoint-iiq-lifecycle-demo](https://github.com/ndeya97/sailpoint-iiq-lifecycle-demo)
+> SailPoint IdentityIQ lifecycle implementation — based on real BNP Paribas banking experience
+
+Reproduces the identity lifecycle patterns I implemented at BNP Paribas:
+HR data ingestion, BeanShell correlation rules, JML workflows (Joiner/Mover/Leaver/LOA/ComeBack), access certification campaigns, and Velocity email notifications.
+
+**Tech:** SailPoint IIQ · BeanShell · XML · CSV · SQL · Velocity
 
 ---
 
-## 🎯 Certifications & Learning
+## 🎓 Certifications & Learning
 
 | Certification | Provider | Status |
 |---|---|---|
-| SC-300 — Identity & Access Administrator | Microsoft | 🔄 In progress |
-| Identity Security Engineer | SailPoint | ⬜ Planned |
-
-*Preparing via Microsoft Learn (SC-300) and developer.sailpoint.com*
+| SC-300 — Identity & Access Administrator | Microsoft | 🔵 In progress |
+| Microsoft Entra ID fundamentals | Microsoft Learn | 🔵 In progress |
 
 ---
 
 ## 🛠 Technical Skills
 
-**IAM / IGA:** SailPoint IdentityIQ · Identity Lifecycle (JML) · Access Certification · BeanShell · Velocity  
-**Cloud IAM:** SailPoint ISC (in progress) · Microsoft Entra ID (learning)  
-**Auth protocols:** SSO · SAML · OAuth2 · MFA (conceptual knowledge · deepening via SC-300)                                                      
-**Development:** Java · Spring Boot · REST APIs · SQL / PL-SQL  
-**Tools:** Git · Docker · Postman · Apache Tomcat · IntelliJ · VS Code
+**IAM / IGA:** SailPoint IdentityIQ · Identity Lifecycle (JML) · Access Certification · BeanShell Rules · Aggregation & Correlation · CSV Onboarding · Velocity (VTL)
+
+**Microsoft Identity:** Microsoft Entra ID (SC-300 in progress) · Azure RBAC concepts
+
+**Development:** Java · BeanShell · PL/SQL · SQL · XML · JavaScript · REST API
+
+**Tools:** GitLab · Postman · Tomcat · Eclipse · VSCode · Docker (basic) · PVCS
 
 ---
 
-## 📫 Connect
+## 🔗 Connect
 
-[LinkedIn](https://linkedin.com/in/ndeyeawadiop)  
-Open to IAM Engineer / IGA roles in Calgary — **available now**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ndeyeawadiop-blue?logo=linkedin)](https://linkedin.com/in/ndeyeawadiop)
+
+Open to **IAM Engineer · IGA Engineer · SailPoint Developer** roles in Calgary — remote or hybrid.
